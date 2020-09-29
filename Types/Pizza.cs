@@ -6,5 +6,13 @@ namespace Types
 {
     class Pizza
     {
+        public string Name { get; set; }
+
+        public float Prix { get; set; }
+
+        public Pizza()
+        {
+
+        }
     }
 }

@@ -11,3 +11,16 @@ C:\Users\ASSOC\source\repos\ConsoleApp3\Types\bin\Debug\netcoreapp3.1\Types.runt
 C:\Users\ASSOC\source\repos\ConsoleApp3\Types\bin\Debug\netcoreapp3.1\Types.pdb
 C:\Users\ASSOC\source\repos\ConsoleApp3\Types\obj\Debug\netcoreapp3.1\Types.genruntimeconfig.cache
 C:\Users\ASSOC\source\repos\ConsoleApp3\Types\obj\Debug\netcoreapp3.1\Types.csprojAssemblyReference.cache
+C:\app\PizzaShop\pizza-shop\Types\bin\Debug\netcoreapp3.1\Types.exe
+C:\app\PizzaShop\pizza-shop\Types\bin\Debug\netcoreapp3.1\Types.deps.json
+C:\app\PizzaShop\pizza-shop\Types\bin\Debug\netcoreapp3.1\Types.runtimeconfig.json
+C:\app\PizzaShop\pizza-shop\Types\bin\Debug\netcoreapp3.1\Types.runtimeconfig.dev.json
+C:\app\PizzaShop\pizza-shop\Types\bin\Debug\netcoreapp3.1\Types.dll
+C:\app\PizzaShop\pizza-shop\Types\bin\Debug\netcoreapp3.1\Types.pdb
+C:\app\PizzaShop\pizza-shop\Types\obj\Debug\netcoreapp3.1\Types.csprojAssemblyReference.cache
+C:\app\PizzaShop\pizza-shop\Types\obj\Debug\netcoreapp3.1\Types.AssemblyInfoInputs.cache
+C:\app\PizzaShop\pizza-shop\Types\obj\Debug\netcoreapp3.1\Types.AssemblyInfo.cs
+C:\app\PizzaShop\pizza-shop\Types\obj\Debug\netcoreapp3.1\Types.csproj.CoreCompileInputs.cache
+C:\app\PizzaShop\pizza-shop\Types\obj\Debug\netcoreapp3.1\Types.dll
+C:\app\PizzaShop\pizza-shop\Types\obj\Debug\netcoreapp3.1\Types.pdb
+C:\app\PizzaShop\pizza-shop\Types\obj\Debug\netcoreapp3.1\Types.genruntimeconfig.cache
