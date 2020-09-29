@@ -1,0 +1,13 @@
+C:\Users\ASSOC\source\repos\ConsoleApp3\Types\bin\Debug\netcoreapp3.1\Types.exe
+C:\Users\ASSOC\source\repos\ConsoleApp3\Types\bin\Debug\netcoreapp3.1\Types.dll
+C:\Users\ASSOC\source\repos\ConsoleApp3\Types\obj\Debug\netcoreapp3.1\Types.AssemblyInfoInputs.cache
+C:\Users\ASSOC\source\repos\ConsoleApp3\Types\obj\Debug\netcoreapp3.1\Types.AssemblyInfo.cs
+C:\Users\ASSOC\source\repos\ConsoleApp3\Types\obj\Debug\netcoreapp3.1\Types.csproj.CoreCompileInputs.cache
+C:\Users\ASSOC\source\repos\ConsoleApp3\Types\obj\Debug\netcoreapp3.1\Types.dll
+C:\Users\ASSOC\source\repos\ConsoleApp3\Types\obj\Debug\netcoreapp3.1\Types.pdb
+C:\Users\ASSOC\source\repos\ConsoleApp3\Types\bin\Debug\netcoreapp3.1\Types.deps.json
+C:\Users\ASSOC\source\repos\ConsoleApp3\Types\bin\Debug\netcoreapp3.1\Types.runtimeconfig.json
+C:\Users\ASSOC\source\repos\ConsoleApp3\Types\bin\Debug\netcoreapp3.1\Types.runtimeconfig.dev.json
+C:\Users\ASSOC\source\repos\ConsoleApp3\Types\bin\Debug\netcoreapp3.1\Types.pdb
+C:\Users\ASSOC\source\repos\ConsoleApp3\Types\obj\Debug\netcoreapp3.1\Types.genruntimeconfig.cache
+C:\Users\ASSOC\source\repos\ConsoleApp3\Types\obj\Debug\netcoreapp3.1\Types.csprojAssemblyReference.cache
