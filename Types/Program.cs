@@ -12,23 +12,14 @@ namespace Types
                       
             Dao.ChargerUsers();
             Dao.ChargerPizzas();
-            Console.WriteLine("Bienvenus Pizza Shop !!!");
+            Console.WriteLine("Bienvenus Pizza Shop !!");
             Dao.AfficherVetrine();
             Dao.Login();
             Console.ReadKey();
         }
     }
 
-    public class User
-    {
-
-        public string Nom { get; set; }
-        public string Prenom { get; set; }
-
-        public string Login { get; set; }
-
-        public string Password { get; set; }
-    }
+    
 
 
 
@@ -44,18 +35,7 @@ namespace Types
 
 
 
-    public class Pizza
-    {
-        public string Name { get; set; }
-
-        public float Prix { get; set; }
-
-        public Pizza()
-        {
-
-        }
-    }
-
+    
 
     class Commande
     {
